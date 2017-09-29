@@ -1,0 +1,43 @@
+body{
+  background-color: #49ecf4;
+}
+h1{
+  letter-spacing: 3px;
+  text-align: center;
+  color: #ff147d;
+  font-family: fantasy;
+}
+h2{
+
+  color:#ff147d;
+  border: 6px black dotted;
+  padding: 10px 40px;
+  border-radius: 25px;
+  width: 150px;
+}
+
+.oblikovanje{
+   font-family: arial;
+   color: blue;
+   text-decoration: underline;
+
+}
+
+.se{
+  color: red;
+
+}
+
+.slika{
+  border: 5px blue solid;
+
+}
+.slika:hover{
+  border: 5px pink dotted;
+}
+.btn{
+  width: 200px;
+  height: 30px;
+  background-color: pink;
+  
+}
